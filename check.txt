@@ -1,1 +1,3 @@
 checking out new access token
+
+updated settings in github
